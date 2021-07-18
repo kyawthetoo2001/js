@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  /* background-color: #B5EAEA; */
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #fff;
+  font-size: 5rem;
+  color: #FFA900;
+}
+h1:hover{
+  color:#DA0037;
+}
+
+p {
+  font-size: 2rem;
+  color: #064420;
+}p:hover{
+  color: #DA0037;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #DA0037;
+  text-align: center;
+
+}
+footer:hover{
+  color:#FFA900;
+}
